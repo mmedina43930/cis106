@@ -5,15 +5,15 @@
 '''
 
 
-#lab 3 Submission
+# lab 3 Submission
 
-##Question 1
+## Question 1
 ![q1.1](q1.1/2023-02-28_12-54.png)
 
-##Question 2
+## Question 2
 ![q2.png](q2.png)
 
-##Question 3
+## Question 3
 
 | Program purpose     | Package Name     | Version            |
 | ------------------- | ---------------- | ------------------ |
@@ -24,7 +24,7 @@
 | Play music          |                  |                    |
 
 
-##Question 4
+## Question 4
 
 | command | what it does                                                                                                   |
 | ------- | -------------------------------------------------------------------------------------------------------------- |
