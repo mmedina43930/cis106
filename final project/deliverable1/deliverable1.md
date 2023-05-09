@@ -17,10 +17,10 @@ Apache is an open source web server, similar to Ubuntu, that operates across var
 
 ### What are some example web server applications?
 
-| Application Name | License            | Project's Website               |
-| ---------------- | ------------------ | ------------------------------- |
-| Example 1        | NGINX              | [example 1](https://www.nginx.com/) |
-| Example 2        | Apache License 2.0 | [example 2](https://www.apache.org/) |
+| Application Name | License            | Project's Website                           |
+| ---------------- | ------------------ | ------------------------------------------- |
+| Example 1        | NGINX              | [example 1](https://www.nginx.com/)         |
+| Example 2        | Apache License 2.0 | [example 2](https://www.apache.org/)        |
 | Example 2        | LiteSpeed          | [example 3](https://www.litespeedtech.com/) |
 
 #### Example 1 - NGINX
